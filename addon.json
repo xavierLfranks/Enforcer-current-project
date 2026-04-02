@@ -1,9 +1,6 @@
 {
-  "title": "Media Player",
-  "type": "tool",
-  "tags": [
-    "fun",
-    "movie"
-  ],
-  "ignore": []
+    "title": "Enforcer's Tripwire Events!",
+    "type": "ServerContent",
+    "tags": ["roleplay", "mqs", "events"],
+    "ignore": [".git", "*.md", "README.txt"]
 }
